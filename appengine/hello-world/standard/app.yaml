@@ -1,5 +1,3 @@
-service: front-scheduler-v5
+service: front
 runtime: nodejs10
-handlers:
-- url: */mobile/*
 
